@@ -57,9 +57,13 @@ Go to www.smartjuggling.com to check that it is working.
 ## Authors
 
 Alexander Jea - Siteswap determining algorithm, sensor work, compiling all ball software parts.
+
 Anton Pedruco - Communication between Computer and host ball.
-Justin Phan - Computer UI and all related code.
+
+Justin Phan - Web UI and all related code.
+
 Jose Quan - All hardware components from ball design to interior circuitry.
+
 Jason Smith - Communication between Simblee Lilypad (SimbleeGZLL).
 
 ## Acknowledgments
